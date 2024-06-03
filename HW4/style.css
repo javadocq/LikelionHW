@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+}
+
+.margin-left {
+    margin-left : 40px;
+}
+
+#inputId {
+    height: 30px;
+    width: 300px;
+}
+
+#delete {
+    position: absolute;
+    right: 100px;
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: greenyellow;
+}
+
+#delete:hover {
+    background-color: red;
+}
+
+.checked {
+    margin-top : 15px;
+}
+
+.checked:hover {
+    height: 15px;
+    width: 15px;;
+}
