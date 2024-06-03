@@ -1,0 +1,29 @@
+#topboard {
+    background-color: aquamarine;
+    color :darkblue;
+    width: 100vw;
+    height: 20vh;
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    align-items: center;
+    padding: 20px;
+
+}
+
+a:link, a:visited {
+	background-color: #1E90FF;
+	color: white;
+	padding: 15px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
+
+#ccc {
+    color :blue;
+}
+
+#block {
+    color : aquamarine;
+}
